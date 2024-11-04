@@ -1,0 +1,23 @@
+### components
+- bottomnavigation ![nativation image](assets/notes/image-1.png)
+- card swipe ![alt text](assets/notes/image-3.png)
+    - for showing tasks
+    - cicular tick to mark on the left ![alt text](assets/notes/image-8.png)
+    - on the right part the deration should be shown
+    - show lines from descrioption ![alt text](assets/notes/image-9.png)
+    - `scrollview` applicable
+    - `Selection` action supported ![alt text](assets/notes/image-10.png)
+- MDFloatingActionButton ![alt text](assets/notes/image-4.png) to add new task
+- datepicker ![alt text](assets/notes/image-5.png) show tasks on that date on the left
+- `TimePicker` ![alt text](assets/notes/image-15.png)
+- dialog box ![alt text](assets/notes/image-6.png) 
+    - for task name and time duration 
+    - showing any exception 
+- ExpantionPanel ![alt text](assets/notes/image-7.png) description section bellow each task. also there should be optioon to convert descrioption to note (later todo )
+- Navigation drawer 
+- `Snackbar` for short message ![alt text](assets/notes/image-11.png)
+- `Spinner` -> circuler process bar ![alt text](assets/notes/image-12.png)
+- `Tagbar` for showing months, date,, years ![alt text](assets/notes/image-13.png)
+- or swipe view ![alt text](assets/notes/image-14.png)
+- ![alt text](assets/notes/image-16.png) for showing app name
+- `tooltip` -> hover over text ![alt text](assets/notes/image-19.png)
